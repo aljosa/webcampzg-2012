@@ -4,9 +4,7 @@ WebCampZg 2012
 Aljoša Mohorović - Kako pretjerati sa jednostavnom idejom?
 ---
 
-Open index.html in a browser...
-
-http://webcampzg.org/
+Open directly in browser: http://aljosa.github.com/webcampzg-2012/
 
 Contact?
 ---
